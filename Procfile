@@ -1,2 +1,2 @@
-web: node build/server.js
+web: ENV_SILENT=TRUE node ./build/server.js
 
